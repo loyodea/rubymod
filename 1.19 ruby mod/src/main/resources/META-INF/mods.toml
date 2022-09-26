@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+
+[[mods]]
+modId="rubymod"
+version="1.0"
+displayName="Ruby Tools"
+
+
+logoFile="ruby_sword.png"
+credits="Loyodea"
+authors="Loyodea"
+description='''
+A 1.19 mod that adds ruby tools to minecraft!
+
+'''
